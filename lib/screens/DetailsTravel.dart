@@ -5,7 +5,7 @@ class DetailsTravel extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text('Details screen'),
+          title: Text('Details screenssssss'),
         ),
         body: Container(
           padding: EdgeInsets.only(top:16, left:16, right:16),
